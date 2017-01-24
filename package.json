@@ -1,0 +1,15 @@
+{
+  "name": "tweets",
+  "version": "1.0.0",
+  "description": "MongoDB Continuos Inserting Test",
+  "main": "tweets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MoAlf",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.21",
+    "twitter": "^1.7.0"
+  }
+}
