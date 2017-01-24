@@ -1,7 +1,6 @@
 {
   "name": "tweets",
   "version": "1.0.0",
-  "description": "MongoDB Continuos Inserting Test",
   "main": "tweets.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
